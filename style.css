@@ -201,12 +201,12 @@ ul {
     text-decoration: none;
     color: #000;
     padding: 10px 30px;
-    border-bottom: 1px solid #dd4168;
+    border-bottom: 1px solid #ca63ff;
     transition: .5s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 .main .services .serviceItem a:hover {
-    background-color: #dd4168;
+    background-color: #ca63ff;
     color: #fff;
 }
 /* End Intro Part */
